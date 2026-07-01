@@ -1,0 +1,6 @@
+{
+  "name": "DocuTrust",
+  "description": "Enterprise Advanced RAG Platform for secure, grounded document intelligence with page-level source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
